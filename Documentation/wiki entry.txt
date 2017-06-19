@@ -1,0 +1,22 @@
+There were 3 assignments for this lab.
+
+The first was a program to take a user entry and determine if the number was odd or even.
+The program asked for the user to enter a number.
+Then using the remainer of dividing by 2 to determine if the number is odd or even, it gave output based on odd or even.
+
+The second was a program to take the height and width, given by the user, to determine area and perimeter of a rectangle.
+*Note: the example given in the assignment was incosistant. Height and width were 10 and 6, Tgiving a perimeter of 60. Since this is the area, I decided to ouput both area and perimeter.
+The program asked for the user to enter numbers for height and width.
+Then it calculated area and perimeter using standard formulas.
+Then it gave output based on these calculations.
+
+The third was a program to generate a random number and get the user to guess the number.
+*Note: I decided to make the user guess until correct.
+The program uses the random function to generate an integer 0-9. 
+Then it goes into a while loop until the user guesses the number.
+The program asks the user to guess a number.
+It compares the number to the randomly generated number.
+If it is too high, it outputs such and repeats the loop.
+If it is too low, it outputs such and repeats the loop.
+If it is correct, it outputs such and leaves the loop.
+
